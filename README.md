@@ -17,5 +17,26 @@ A minimal task manager for your daily tasks
  - No front-end validation implemented.
  - Backend validation is minimal and may not cover all edge cases.
 
+
+## Usage Guidelines
+
+**Step 1**: Install all dependencies
+
+```bash
+npm install
+```
+
+**Step 2**: Start the server
+
+```bash
+node server.js
+```
+
+**Step 3**: Access the application. Open a browser and navigate to
+
+```bash
+[node server.js](http://localhost)
+```
+
 > [!WARNING]
 > This project is for **academic purposes only**. Do **not** use it in production whatsoever.
