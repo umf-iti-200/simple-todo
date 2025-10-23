@@ -14,6 +14,7 @@ A minimal task manager for your daily tasks
 
 ## Limitations
 
+ - No database. All data saved in an array.
  - No front-end validation implemented.
  - Backend validation is minimal and may not cover all edge cases.
 
