@@ -7,3 +7,7 @@ A minimal task manager for your daily tasks
 [![GitHub stars](https://img.shields.io/github/stars/umf-iti-200/simple-todo.svg)](https://github.com/umf-iti-200/simple-todo)
 ![GitHub License](https://img.shields.io/github/license/umf-iti-200/simple-todo)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/umf-iti-200/simple-todo/main/public/images/screenshot.png" width="60%">
