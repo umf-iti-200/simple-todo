@@ -11,3 +11,7 @@ A minimal task manager for your daily tasks
 ## Screenshots
 
 <img src="https://raw.githubusercontent.com/umf-iti-200/simple-todo/main/public/images/screenshot.png" width="60%">
+
+
+> [!WARNING]
+> This project is for **academic purposes only**. Do **not** use it in production whatsoever.
