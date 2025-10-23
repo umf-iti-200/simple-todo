@@ -32,10 +32,10 @@ npm install
 node server.js
 ```
 
-**Step 3**: Access the application. Open a browser and navigate to
+**Step 3**: Open a browser and go to:
 
-```bash
-[node server.js](http://localhost)
+```url
+http://localhost
 ```
 
 > [!WARNING]
