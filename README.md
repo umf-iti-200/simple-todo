@@ -12,6 +12,10 @@ A minimal task manager for your daily tasks
 
 <img src="https://raw.githubusercontent.com/umf-iti-200/simple-todo/main/public/images/screenshot.png" width="60%">
 
+## Limitations
+
+ - No front-end validation implemented.
+ - Backend validation is minimal and may not cover all edge cases.
 
 > [!WARNING]
 > This project is for **academic purposes only**. Do **not** use it in production whatsoever.
